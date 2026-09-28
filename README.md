@@ -126,7 +126,7 @@ class AmanSaraswat:
 <div align="center">
 
 <a href="https://github.com/Aan9758">
-  <img src="./profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Aan9758/Aan9758/main/profile-3d-contrib/profile-gitblock.svg" width="100%" alt="3D Contribution Graph" />
 </a>
 
 </div>
