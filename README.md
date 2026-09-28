@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3320,50:1a5c35,100:2ecc71&height=180&section=header&text=Aman%20Saraswat&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20IIT%20Guwahati%20%E2%80%A2%20Building%20Zero-Hallucination%20Systems&descAlignY=58&descSize=18&descColor=a0f0a0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3320,50:1a5c35,100:2ecc71&height=180&section=header&text=Aman%20Saraswat&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%80%A2%20IIT%20Guwahati%20%E2%80%A2%20Building%20Verifiable%20AI%20Systems&descAlignY=58&descSize=18&descColor=a0f0a0" />
 
 <div align="center">
 
@@ -19,6 +19,8 @@
 
 ## 🧠 About Me
 
+I build AI systems for high-stakes decisions, where outputs need guardrails, evidence, and an audit trail—not just a convincing answer.
+
 ```python
 class AmanSaraswat:
     name       = "Aman Saraswat"
@@ -26,7 +28,7 @@ class AmanSaraswat:
     location   = "India 🇮🇳"
     focus      = ["Zero-Hallucination AI", "LLM Orchestration", "FinTech AI", "Voice Interfaces"]
     languages  = ["Python", "JavaScript", "SQL"]
-    currently  = "Building production-grade AI systems that don't hallucinate"
+    currently  = "Building AI systems with verifiable, grounded outputs"
     open_to    = ["Collaborations", "Research", "SDE / ML Roles"]
     
     def mission(self):
@@ -44,15 +46,15 @@ class AmanSaraswat:
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Work
 
 <div align="center">
 
 | Project | Stack | What It Does |
 |:--------|:-----:|:-------------|
-| [**🎙️ VoiceFinAI**](https://github.com/Aan9758/VoiceFinAI) | `Python` `Flask` `Groq` `Deepgram` `Edge-TTS` | Zero-hallucination conversational voice AI for Indian mutual funds — SHA-256 AuditStream firewall, Hindi/English |
-| [**🔒 FinShield RAG**](https://github.com/Aan9758/finshield-rag) | `Python` `RAG` `LLM` `FastAPI` | RBI-compliant financial AI — multi-layer security, verified retrieval, cryptographic audit trails |
-| [**🐝 Swarm Ops**](https://github.com/Aan9758/swarm-ops-project) | `Python` `FastAPI` `WebSockets` | Production multi-agent AI swarm for e-commerce — real-time LLM task coordination |
+| [**🎙️ VoiceFinAI**](https://github.com/Aan9758/VoiceFinAI) | `Python` `Flask` `Groq` `Deepgram` `Edge-TTS` | Voice-first mutual-fund assistant with a SHA-256 AuditStream guardrail; Hindi/English |
+| [**🔒 FinShield RAG**](https://github.com/Aan9758/finshield-rag) | `Python` `RAG` `LLM` `FastAPI` | Financial AI assistant focused on retrieval verification, layered security, and auditability |
+| [**🐝 Swarm Ops**](https://github.com/Aan9758/swarm-ops-project) | `Python` `FastAPI` `WebSockets` | Multi-agent e-commerce system for real-time LLM task coordination |
 | [**🤖 AI Browser Agent**](https://github.com/Aan9758/ai-browser-automation-ag2) | `Playwright` `AutoGen` `OpenAI` | AI-driven browser automation using the AG2 multi-agent framework |
 | [**💳 Fraud Detector**](https://github.com/Aan9758/Fraud-Detection-Project) | `Scikit-learn` `Pandas` | Proactive financial fraud detection — Random Forest + Gradient Boosting |
 | [**🫁 Pneumonia AI**](https://github.com/Aan9758/Pneumonia-Detection-DeepLearning) | `PyTorch` `CNN` `OpenCV` | Deep CNN for pneumonia detection from chest X-ray images (94%+ accuracy) |
@@ -103,21 +105,11 @@ class AmanSaraswat:
 
 ---
 
-## 📊 GitHub Stats
+## 🔬 Reliability-First AI
 
-<div align="center">
-
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Aan9758&show_icons=true&theme=dark&bg_color=0d1117&title_color=2ecc71&icon_color=2ecc71&text_color=c9d1d9&border_color=30363d&count_private=true&include_all_commits=true&hide_border=false" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aan9758&theme=dark&bg_color=0d1117&title_color=2ecc71&text_color=c9d1d9&border_color=30363d&layout=compact&langs_count=8&hide_border=false" alt="Top Languages"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Aan9758&theme=dark&background=0d1117&border=30363d&ring=2ecc71&fire=2ecc71&currStreakLabel=2ecc71&sideNums=c9d1d9&dates=8b949e&sideLabels=c9d1d9&currStreakNum=ffffff&hide_border=false)](https://git.io/streak-stats)
-
-</div>
+- **Grounded answers** — retrieval and verification before response generation
+- **Guardrails and traceability** — deterministic checks and cryptographic audit trails for sensitive workflows
+- **Practical interfaces** — fast, bilingual voice experiences designed for real users
 
 ---
 
@@ -133,16 +125,6 @@ class AmanSaraswat:
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aan9758&theme=github-compact&bg_color=0d1117&color=2ecc71&line=2ecc71&point=ffffff&area=true&area_color=2ecc7133&hide_border=false&custom_title=Contribution%20Activity%20Graph)](https://github.com/Aan9758)
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -152,16 +134,6 @@ class AmanSaraswat:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aan9758/Aan9758/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Aan9758/Aan9758/output/github-contribution-grid-snake.svg" />
 </picture>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Aan9758&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
