@@ -147,7 +147,7 @@ class AmanSaraswat:
 
 **⭐ Star my repos if you find them useful · Let's connect and build something remarkable**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amansaraswat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-saraswat9758/)
 [![Email](https://img.shields.io/badge/Email-a.saraswat%40iitg.ac.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.saraswat@iitg.ac.in)
 [![GitHub](https://img.shields.io/badge/GitHub-Aan9758-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aan9758)
 
