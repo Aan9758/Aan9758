@@ -21,10 +21,15 @@ class AmanSaraswat:
     name       = "Aman Saraswat"
     institute  = "IIT Guwahati 🎓"
     location   = "India 🇮🇳"
-    focus      = ["Zero-Hallucination AI", "LLM Orchestration", "FinTech AI", "Voice Interfaces"]
+    focus      = [
+        "Verifiable AI", "LLM Orchestration",
+        "FinTech AI", "Voice Interfaces"
+    ]
     languages  = ["Python", "JavaScript", "SQL"]
     currently  = "Building AI systems with verifiable, grounded outputs"
-    open_to    = ["Collaborations", "Research", "SDE / ML Roles"]
+    open_to    = [
+        "Collaborations", "Research", "SDE / ML Roles"
+    ]
     
     def mission(self):
         return "Bridge the gap between powerful AI and regulated, high-stakes domains"
