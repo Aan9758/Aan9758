@@ -2,11 +2,6 @@
 
 <div align="center">
 
-<!-- Animated Typing -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=2ECC71&center=true&vCenter=true&repeat=true&width=680&height=55&lines=🎙️+VoiceFinAI+—+Zero-Hallucination+Voice+AI;🔒+FinTech+AI+with+SEBI+%26+RBI+Compliance;🐝+Multi-Agent+LLM+Orchestration+Systems;🧠+Deep+Learning+%26+Medical+AI;⚡+Groq+LPU+%2B+Deepgram+Nova-3+%2B+Edge+TTS" alt="Typing SVG" />
-
-<br/><br/>
-
 <!-- Badges -->
 [![Profile Views](https://komarev.com/ghpvc/?username=Aan9758&style=flat-square&color=2ecc71&label=Profile+Views)](https://github.com/Aan9758)
 [![GitHub followers](https://img.shields.io/github/followers/Aan9758?style=flat-square&logo=github&logoColor=white&color=2ecc71&label=Followers)](https://github.com/Aan9758?tab=followers)
